@@ -1,0 +1,33 @@
+h1{
+    color: rgb(147, 47, 47);
+    font-size: 30px;
+}
+
+/* Bỏ dấu chấm đầu dòng */
+#Courses{
+    list-style-type: none;
+    padding: 0;
+}
+
+ #Courses {
+    display : flex;
+    width : 100%;
+    margin-bottom: 30px;
+}
+
+.Course {
+    margin: 0 40px;
+}
+
+.Course img{
+    height: 200px;
+}
+
+.Page{
+    font-size: 20px;
+}
+
+.Icon{
+    color: red;
+    font-size: 20px;
+}
